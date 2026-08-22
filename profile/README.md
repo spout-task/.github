@@ -6,8 +6,6 @@
 
 <p align="center"><b>State-machine Platform for Operant Uni/dual-spout Tasks</b></p>
 
---
-
 <p align="center">
   <img alt="tasks" src="https://img.shields.io/badge/tasks-10-4c8bf5">
   <img alt="systems" src="https://img.shields.io/badge/systems-SPOUT1%20%7C%20SPOUT2-4c8bf5">
@@ -17,7 +15,6 @@
 </p>
 
 ---
--
 
 Understanding how neural activity gives rise to behavior requires experimental approaches
 that combine precisely quantified behavior with simultaneous recording and manipulation of
