@@ -58,6 +58,12 @@ over long sessions.
 
 **SPOUT2 — two spouts:** uninstructed lick-left/lick-right (LL/LR) · instructed LL/LR · two-armed bandit (2ABT) · delayed-response (DR) · Pavlovian conditioning
 
+
+Beyond these ten, task-specific transitions and togglable penalty states can be combined
+independently within each task, so the same two state machines already implement **well over
+a dozen distinct task variants** — and many more can be configured simply by changing task
+variables in the MATLAB GUI, without any programming experience required.
+
 ## How to cite
 
 If you use SPOUT, please cite the methods paper and the archived software release:
