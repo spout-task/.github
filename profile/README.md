@@ -2,7 +2,6 @@
   <img src="SPOUT_logo.png" alt="SPOUT logo" width="380">
 </p>
 
-<h1 align="center">SPOUT</h1>
 <p align="center"><b>State-machine Platform for Operant Uni/dual-spout Tasks</b></p>
 
 <p align="center">
