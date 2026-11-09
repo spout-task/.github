@@ -74,7 +74,7 @@ If you are not sure how to train you mice, feel free to make use of our predefin
 <p align="center">
   <img src="SPOUT2_example.png" alt="SPOUT logo">
 </p>
-*Figure - example of SPOUT GUI*
+_Figure - example of SPOUT2 GUI_
 
 ## How to cite
 
