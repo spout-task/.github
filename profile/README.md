@@ -71,6 +71,7 @@ SPOUT is user-friendly and easy to set up for anyone without much technical back
 
 If you are not sure how to train you mice, feel free to make use of our predefined settings files. You can click "Load settings" to directly load them in the GUI and onto the Teensy.
 
+
 <p align="center">
   <img src="SPOUT2_example.png" alt="SPOUT logo">
 </p>
