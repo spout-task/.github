@@ -77,7 +77,7 @@ If you use SPOUT, please cite the methods paper and the archived software releas
 
 > van den Boom BJG, Dash D, Rutherford M, Girasole AE, Gorelik P, Mazor O, Sabatini BL.
 > **SPOUT: An open-source hardware and software platform to study decision making while
-> manipulating and recording from neural activity.** (2026).
+> manipulating and recording from neural activity.** bioRxiv, 2026.
 
 Each repository carries a `CITATION.cff` and is archived on Zenodo at its first tagged
 release (DOIs to be added).
