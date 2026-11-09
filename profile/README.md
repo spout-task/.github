@@ -37,7 +37,7 @@ from acquisition glitches and clock drift — keeping behavior and neural data a
 over long sessions.
 
 <p align="center">
-  <img src="SPOUT2_example.png" alt="SPOUT logo" width="380">
+  <img src="SPOUT2_example.png" alt="SPOUT logo">
 </p>
 Figure - example of SPOUT GUI
 
