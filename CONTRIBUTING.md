@@ -15,8 +15,8 @@ existing components, so every published/citable version stays stable.
 
 ## Recipes
 - **New task mode:** add its state-machine logic in [software](https://github.com/spout-task/software) under the
-  right `SPOUTn/teensy_firmware/`, add its settings folder in [settings](https://github.com/spout-task/settings)
-  under `SPOUTn/<task>/`, and note it in the software CHANGELOG.
+  right `SPOUTn/teensy_firmware/` sketch, and add its settings folder in [settings](https://github.com/spout-task/settings)
+  under `SPOUTn/<task>/`.
 - **New hardware module:** add a folder in [hardware](https://github.com/spout-task/hardware) with design files, a
   README, its parts/cost, and assembly notes.
 - **New analysis:** add scripts in [analyses](https://github.com/spout-task/analyses) with a header stating inputs,
